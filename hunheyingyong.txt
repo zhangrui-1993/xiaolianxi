@@ -1,0 +1,25 @@
+1. http://www.appcan.cn/appshow/
+
+2. http://www.phonegap100.com/app.html
+
+混合应用：
+
+混合应用的 解决方案：(web js 调用native 实现)  
+（1）phonegap
+ (2)appcan
+(3)apiCloud
+(4)dCloud
+(5)WeX5
+(6) worklight 
+
+混合应用的UI框架：
+（1） jqueryMobile
+(2) angular Mobile 
+（3）Ionic
+(4)Jqmobi
+(5)dojo mobile
+(6)sencha Touch
+ 
+
+
+adfas fasdf aadfdaf
